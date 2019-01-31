@@ -14,3 +14,6 @@ list of project avalable on the github page
 
 ## Assistant based on raspi zero W
 code name [La boule](https://github.com/jmmourier/laboulelaboule)
+
+## who am i ?
+(linkedin)[https://www.linkedin.com/in/jean-michel-mourier-29a9661b]
