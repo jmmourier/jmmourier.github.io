@@ -13,7 +13,7 @@ list of project avalable on the github page
 [information page](https://jmmourier.github.io/numerobis)
 
 ## Assistant based on raspi zero W
-code name [La boule](https://github.com/jmmourier/laboulelaboule)
+code name [La boule](https://github.com/jmmourier/laboule)
 
 ## who am i ?
 [linkedin](https://www.linkedin.com/in/jean-michel-mourier-29a9661b)
